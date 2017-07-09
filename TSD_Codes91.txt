@@ -1,0 +1,1352 @@
+Sla_id	Sla_name	TSD_Code
+10150	Ashfield (M)	101
+11100	Botany (M)	101
+12550	Drummoyne (M)	101
+14700	Lane Cove (M)	101
+14800	Leichhardt (M)	101
+15200	Marrickville (M)	101
+15350	Mosman (M)	101
+15950	North Sydney (M)	101
+16550	Randwick (M)	101
+17070	South Sydney (C)	101
+17201	Sydney (C) - Inner	101
+17202	Sydney (C) - Remainder	101
+18050	Waverley (M)	101
+18500	Woollahra (M)	101
+10200	Auburn (M)	102
+10350	Bankstown (C)	102
+11550	Canterbury (M)	102
+11900	Concord (M)	102
+14100	Hunter	102
+14150	Hurstville (C)	102
+14450	Kogarah (M)	102
+14500	Ku-ring-gai (M)	102
+15150	Manly (M)	102
+16250	Parramatta (C)	102
+16650	Rockdale (M)	102
+16700	Ryde (M)	102
+17100	Strathfield (M)	102
+18250	Willoughby (C)	102
+10500	Baulkham Hills (S)	103
+10750	Blacktown (C)	103
+10900	Blue Mountains (C)	103
+11450	Camden (M)	103
+11500	Campbelltown (C)	103
+12850	Fairfield (C)	103
+13100	Gosford (C)	103
+13800	Hawkesbury (C)	103
+13950	Holroyd (C)	103
+14000	Hornsby (S)	103
+14900	Liverpool (C)	103
+16350	Penrith (C)	103
+17150	Sutherland (S)	103
+18000	Warringah (S)	103
+18400	Wollondilly (S)	103
+18550	Wyong (S)	103
+11720	Cessnock (C)	104
+12700	Dungog (S)	104
+13050	Gloucester (S)	104
+13400	Great Lakes (S)	104
+14650	Lake Macquarie (C)	104
+15050	Maitland (C)	104
+15250	Merriwa (S)	104
+15600	Murrurundi (S)	104
+15650	Muswellbrook (S)	104
+15901	Newcastle (C) - Inner	104
+15902	Newcastle (C) - Remainder	104
+16400	Port Stephens (S)	104
+16800	Scone (S)	104
+17000	Singleton (S)	104
+14400	Kiama (M)	105
+16900	Shellharbour (M)	105
+16950	Shoalhaven (C)	105
+18350	Wingecarribee (S)	105
+18450	Wollongong (C)	105
+10250	Ballina (S)	106
+11350	Byron (S)	106
+11650	Casino (M)	106
+14550	Kyogle (S)	106
+14850	Lismore (C)	106
+16600	Richmond River (S)	106
+17551	Tweed (S)- Pt A	106
+17552	Tweed (S)- Pt B	106
+10600	Bellingen (S)	107
+11800	Coffs Harbour (C)	107
+12250	Copmanhurst (S)	107
+13200	Grafton (C)	107
+13350	Greater Taree (C)	107
+13750	Hastings (M)	107
+14350	Kempsey (S)	107
+15000	Maclean (S)	107
+15700	Nambucca (S)	107
+16050	Nymboida (S)	107
+17600	Ulmarra (S)	107
+10100	Armidale (C)	108
+10400	Barraba (S)	108
+10700	Bingara (S)	108
+12650	Dumaresq (S)	108
+13000	Glen Innes (M)	108
+13550	Gunnedah (S)	108
+13650	Guyra (S)	108
+14201	Inverell (S)- Pt A	108
+14202	Inverell (S)- Pt B	108
+15100	Manilla (S)	108
+15300	Moree Plains (S)	108
+15750	Narrabri (S)	108
+16000	Nundle (S)	108
+16300	Parry (S)	108
+16500	Quirindi (S)	108
+16850	Severn (S)	108
+17300	Tamworth (C)	108
+17400	Tenterfield (S)	108
+17650	Uralla (S)	108
+17850	Walcha (S)	108
+18600	Yallaroi (S)	108
+10950	Bogan (S)	109
+11150	Bourke (S)	109
+11200	Brewarrina (S)	109
+11750	Cobar (S)	109
+11950	Coolah (S)	109
+12100	Coonabarabran (S)	109
+12150	Coonamble (S)	109
+12600	Dubbo (C)	109
+12950	Gilgandra (S)	109
+15400	Mudgee (S)	109
+15850	Narromine (S)	109
+17900	Walgett (S)	109
+17950	Warren (S)	109
+18150	Wellington (S)	109
+10450	Bathurst (C)	110
+10800	Bland (S)	110
+10851	Blayney (S)- Pt A	110
+10852	Blayney (S)- Pt B	110
+11401	Cabonne (S)- Pt A	110
+11402	Cabonne (S)- Pt B	110
+11403	Cabonne (S)- Pt C	110
+12350	Cowra (S)	110
+12801	Evans (S)- Pt A	110
+12802	Evans (S)- Pt B	110
+12900	Forbes (S)	110
+13300	Greater Lithgow (C)	110
+14600	Lachlan (S)	110
+16100	Oberon (S)	110
+16150	Orange (C)	110
+16200	Parkes (S)	110
+16750	Rylstone (S)	110
+18100	Weddin (S)	110
+10550	Bega Valley (S)	111
+11000	Bombala (S)	111
+11050	Boorowa (S)	111
+12050	Cooma-Monaro (S)	111
+12400	Crookwell (S)	111
+12750	Eurobodalla (S)	111
+13150	Goulburn (C)	111
+13600	Gunning (S)	111
+13700	Harden (S)	111
+15450	Mulwaree (S)	111
+16450	Queanbeyan (C)	111
+17050	Snowy River (S)	111
+17250	Tallaganda (S)	111
+18650	Yarrowlumla (S)	111
+18700	Yass (S)	111
+18750	Young (S)	111
+11600	Carrathool (S)	112
+12000	Coolamon (S)	112
+12200	Cootamundra (S)	112
+13450	Griffith (C)	112
+13500	Gundagai (S)	112
+13850	Hay (S)	112
+14300	Junee (S)	112
+14750	Leeton (S)	112
+14950	Lockhart (S)	112
+15550	Murrumbidgee (S)	112
+15800	Narrandera (S)	112
+17350	Temora (S)	112
+17500	Tumut (S)	112
+17750	Wagga Wagga (C)	112
+10050	Albury (C)	113
+10300	Balranald (S)	113
+10650	Berrigan (S)	113
+11850	Conargo (S)	113
+12300	Corowa (S)	113
+12450	Culcairn (S)	113
+12500	Deniliquin (M)	113
+13900	Holbrook (S)	113
+14050	Hume (S)	113
+14250	Jerilderie (S)	113
+15500	Murray (S)	113
+17450	Tumbarumba (S)	113
+17700	Urana (S)	113
+17800	Wakool (S)	113
+18200	Wentworth (S)	113
+18300	Windouran (S)	113
+11250	Broken Hill (C)	114
+11700	Central Darling (S)	114
+18809	Unincorp. Far West	114
+21160	Brighton (C)	201
+21240	Broadmeadows (C)	201
+21280	Brunswick (C)	201
+21480	Camberwell (C)	201
+21600	Caulfield (C)	201
+21800	Coburg (C)	201
+21960	Collingwood (C)	201
+22680	Essendon (C)	201
+22760	Fitzroy (C)	201
+22840	Footscray (C)	201
+23320	Hawthorn (C)	201
+23680	Keilor (C)	201
+23800	Kew (C)	201
+24440	Malvern (C)	201
+24601	Melbourne (C)- Inner	201
+24602	Melbourne (C)- Remainder	201
+25400	Northcote (C)	201
+25840	Port Melbourne (C)	201
+25960	Prahran (C)	201
+26120	Richmond (C)	201
+26480	St Kilda (C)	201
+26880	South Melbourne (C)	201
+27080	Sunshine (C)	201
+28080	Williamstown (C)	201
+20120	Altona (C)	202
+21320	Bulla (S)	202
+22280	Diamond Valley (S)	202
+22640	Eltham (S)	202
+23360	Healesville (S)	202
+23400	Heidelberg (C)	202
+24640	Melton (S)	202
+26000	Preston (C)	202
+28000	Werribee (C)	202
+28040	Whittlesea (C)	202
+20960	Berwick (C)	203
+21080	Box Hill (C)	203
+21680	Chelsea (C)	203
+22040	Cranbourne (S)	203
+22120	Croydon (C)	203
+22160	Dandenong (C)	203
+22400	Doncaster & Templestowe (C)	203
+22800	Flinders (S)	203
+22880	Frankston (C)	203
+23280	Hastings (S)	203
+23880	Knox (C)	203
+24240	Lillydale (S)	203
+24920	Moorabbin (C)	203
+24960	Mordialloc (C)	203
+25000	Mornington (S)	203
+25480	Nunawading (C)	203
+25520	Oakleigh (C)	203
+25720	Pakenham (S)	203
+26160	Ringwood (C)	203
+26560	Sandringham (C)	203
+26760	Sherbrooke (S)	203
+26920	Springvale (C)	203
+27960	Waverley (C)	203
+20601	Bannockburn (S)- Pt A	204
+20641	Barrabool (S)- Pt A	204
+20801	Bellarine (RC)- Pt A	204
+22001	Corio (S)- Pt A	204
+22920	Geelong (C)	204
+22960	Geelong West (C)	204
+25360	Newtown (C)	204
+26801	South Barwon (C)- Pt A	204
+20642	Barrabool (S)- Pt B	204
+20802	Bellarine (RC)- Pt B	204
+26080	Queenscliffe (B)	204
+26802	South Barwon (C)- Pt B	204
+20602	Bannockburn (S)- Pt B	204
+21880	Colac (C)	204
+21920	Colac (S)	204
+22002	Corio (S)- Pt B	204
+24160	Leigh (S)	204
+25640	Otway (S)	204
+28160	Winchelsea (S)	204
+23440	Heytesbury (S)	204
+20760	Belfast (S)	205
+21520	Camperdown (T)	205
+23240	Hampden (S)	205
+25040	Mortlake (S)	205
+25800	Port Fairy (B)	205
+27880	Warrnambool (C)	205
+27920	Warrnambool (S)	205
+28569	Lady Julia Percy & Towerhill	205
+22440	Dundas (S)	205
+23040	Glenelg (S)	205
+23200	Hamilton (C)	205
+23460	Heywood (S)	205
+24800	Minhamite (S)	205
+25120	Mount Rouse (S)	205
+25880	Portland (C)	205
+27720	Wannon (S)	205
+20480	Ballaarat (C)	206
+20561	Ballarat (S)- Pt A	206
+21401	Bungaree (S)- Pt A	206
+21441	Buninyong (S)- Pt A	206
+26600	Sebastopol (B)	206
+20360	Bacchus Marsh (S)	206
+20520	Ballan (S)	206
+21402	Bungaree (S)- Pt B	206
+21442	Buninyong (S)- Pt B	206
+22080	Creswick (S)	209
+20200	Ararat (C)	206
+20240	Ararat (S)	206
+20280	Avoca (S)	206
+20562	Ballarat (S)- Pt B	206
+24200	Lexton (S)	206
+26200	Ripon (S)	209
+27200	Talbot & Clunes (S)	206
+23161	Grenville (S)- Pt A	206
+23162	Grenville (S)- Pt B	206
+20160	Arapiles (S)	207
+23480	Horsham (C)	207
+23600	Kara Kara (S)	207
+24040	Kowree (S)	207
+26440	St Arnaud (T)	207
+26960	Stawell (C)	207
+27000	Stawell (S)	207
+28120	Wimmera (S)	207
+22320	Dimboola (S)	207
+22480	Dunmunkle (S)	207
+23560	Kaniva (S)	207
+24280	Lowan (S)	207
+27800	Warracknabeal (S)	207
+23640	Karkarooc (S)	207
+24720	Mildura (C)	208
+24761	Mildura (S)- Pt A	208
+21040	Birchip (S)	208
+24762	Mildura (S)- Pt B	208
+27600	Walpeup (S)	208
+28320	Wycheproof (S)	208
+23720	Kerang (B)	208
+23760	Kerang (S)	208
+27120	Swan Hill (C)	208
+27160	Swan Hill (S)	208
+22360	Donald (S)	208
+21640	Charlton (S)	208
+21840	Cohuna (S)	208
+20920	Bendigo (C)	209
+22520	Eaglehawk (B)	209
+23521	Huntly (S)- Pt A	209
+24521	Marong (RC)- Pt A	209
+27041	Strathfieldsaye (S)- Pt A	209
+22560	East Loddon (S)	209
+23080	Gordon (S)	209
+23960	Korong (S)	209
+21000	Bet Bet (S)	209
+21560	Castlemaine (C)	209
+23522	Huntly (S)- Pt B	209
+24320	McIvor (S)	209
+24400	Maldon (S)	209
+24522	Marong (RC)- Pt B	209
+24560	Maryborough (C)	209
+24680	Metcalfe (S)	209
+25320	Newstead (S)	209
+27042	Strathfieldsaye (S)- Pt B	209
+27400	Tullaroop (S)	209
+23000	Gisborne (S)	209
+24120	Kyneton (S)	209
+25280	Newham & Woodend (S)	209
+26320	Romsey (S)	209
+22200	Daylesford & Glenlyon (S)	209
+26281	Rodney (S)- Pt A	210
+26680	Shepparton (C)	210
+26721	Shepparton (S)- Pt A	210
+21760	Cobram (S)	210
+22240	Deakin (S)	210
+24080	Kyabram (T)	210
+25240	Nathalia (S)	210
+25440	Numurkah (S)	210
+26282	Rodney (S)- Pt B	210
+26722	Shepparton (S)- Pt B	210
+27440	Tungamah (S)	210
+27760	Waranga (S)	210
+20080	Alexandra (S)	210
+20840	Benalla (C)	210
+20880	Benalla (S)	210
+22720	Euroa (S)	210
+23120	Goulburn (S)	210
+24480	Mansfield (S)	210
+27560	Violet Town (S)	210
+21200	Broadford (S)	210
+23840	Kilmore (S)	210
+26640	Seymour (S)	210
+28480	Yea (S)	210
+26240	Rochester (S)	210
+26040	Pyalong (S)	210
+28440	Yarrawonga (S)	210
+22600	Echuca (C)	210
+20720	Beechworth (S)	211
+21720	Chiltern (S)	211
+27241	Tallangatta (S)- Pt A	211
+28200	Wodonga (RC)	211
+28360	Yackandandah (S)	211
+26400	Rutherglen (S)	211
+27640	Wangaratta (C)	211
+27680	Wangaratta (S)	211
+21120	Bright (S)	211
+25160	Myrtleford (S)	211
+25680	Oxley (S)	211
+27242	Tallangatta (S)- Pt B	211
+27480	Upper Murray (S)	211
+20400	Bairnsdale (C)	212
+20441	Bairnsdale (S)- Pt A	212
+27281	Tambo (S)- Pt A	212
+20442	Bairnsdale (S)- Pt B	212
+25560	Omeo (S)	212
+25600	Orbost (S)	212
+27282	Tambo (S)- Pt B	212
+20320	Avon (S)	212
+24360	Maffra (S)	212
+26520	Sale (C)	212
+24880	Moe (C)	213
+25081	Morwell (C)- Pt A	213
+25201	Narracan (S)- Pt A	213
+27320	Traralgon (C)	213
+27361	Traralgon (S)- Pt A	213
+28509	Yallourn Works Area	213
+21360	Buln Buln (S)	213
+25202	Narracan (S)- Pt B	213
+27522	Upper Yarra (S)- Pt B	213
+27840	Warragul (S)	213
+20040	Alberton (S)	213
+24840	Mirboo (S)	213
+25082	Morwell (C)- Pt B	213
+26360	Rosedale (S)	213
+27362	Traralgon (S)- Pt B	213
+20680	Bass (S)	213
+24000	Korumburra (S)	213
+25760	Phillip Island (S)	213
+26840	South Gippsland (S)	213
+28240	Wonthaggi (B)	213
+28280	Woorayl (S)	213
+28529	French Island	213
+28649	Bass Strait Islands	213
+27521	Upper Yarra (S)- Pt A	213
+31067	Bowen Hills	301
+31143	City - Inner	301
+31146	City - Remainder	301
+31187	Dutton Park	301
+31195	East Brisbane	301
+31228	Fortitude Valley - Inner	301
+31233	Fortitude Valley - Remainder	301
+31274	Herston	301
+31277	Highgate Hill	301
+31304	Kangaroo Point	301
+31315	Kelvin Grove	301
+31378	Milton	301
+31421	New Farm	301
+31427	Newstead	301
+31454	Paddington	301
+31481	Red Hill	301
+31525	South Brisbane	301
+31528	Spring Hill	301
+31607	West End	301
+31631	Woolloongabba	301
+31004	Albion	302
+31007	Alderley	302
+31015	Annerley	302
+31026	Ascot	302
+31031	Ashgrove	302
+31042	Balmoral	302
+31048	Bardon	302
+31086	Bulimba	302
+31097	Camp Hill	302
+31102	Cannon Hill	302
+31113	Carina	302
+31116	Carina Heights	302
+31127	Chapel Hill	302
+31132	Chelmer	302
+31135	Chermside	302
+31151	Clayfield	302
+31154	Coopers Plains	302
+31157	Coorparoo	302
+31162	Corinda	302
+31214	Fairfield	302
+31222	Fig Tree Pocket	302
+31241	Graceville	302
+31244	Grange	302
+31247	Greenslopes	302
+31255	Hamilton	302
+31258	Hawthorne	302
+31271	Hendra	302
+31282	Holland Park	302
+31285	Holland Park West	302
+31293	Indooroopilly	302
+31296	Jamboree Heights	302
+31301	Jindalee	302
+31312	Kedron	302
+31318	Kenmore	302
+31345	Lutwyche	302
+31356	MacGregor	302
+31375	Middle Park	302
+31391	Moorooka	302
+31397	Morningside	302
+31402	Mount Gravatt	302
+31405	Mount Gravatt East	302
+31408	Mount Ommaney	302
+31413	Murarrie	302
+31416	Nathan	302
+31424	Newmarket	302
+31432	Norman Park	302
+31446	Nundah	302
+31451	Oxley	302
+31487	Riverhills	302
+31492	Robertson	302
+31498	Rocklea	302
+31506	St Lucia	302
+31511	Salisbury	302
+31517	Seventeen Mile Rocks	302
+31522	Sherwood	302
+31533	Stafford	302
+31536	Stafford Heights	302
+31547	Sunnybank	302
+31558	Taringa	302
+31563	Tarragindi	302
+31574	Toowong	302
+31588	Upper Mount Gravatt	302
+31604	Wavell Heights	302
+31612	Westlake	302
+31618	Wilston	302
+31623	Windsor	302
+31634	Wooloowin	302
+31645	Yeerongpilly	302
+31648	Yeronga	302
+31001	Acacia Ridge	303
+31012	Algester	303
+31018	Anstead (incl. Moggill SF)	303
+31023	Archerfield	303
+31034	Aspley	303
+31037	Bald Hills	303
+31045	Banyo	303
+31053	Bellbowrie	303
+31057	Belmont-Mackenzie	303
+31061	Berrinba	303
+31064	Boondall	303
+31072	Bracken Ridge	303
+31075	Bridgeman Downs	303
+31078	Brighton	303
+31083	Brookfield (incl. Mt C	303
+31091	Burbank	303
+31094	Calamvale	303
+31105	Capalaba West	303
+31108	Carindale	303
+31121	Carseldine	303
+31124	Chandler	303
+31138	Chermside West	303
+31167	Darra-Sumner	303
+31173	Deagon	303
+31176	Doolandella	303
+31184	Durack	303
+31198	Eight Mile Plains	303
+31203	Ellen Grove	303
+31206	Enoggera (incl. Mltry Camp)	303
+31211	Everton Park	303
+31217	Ferny Grove	303
+31236	Geebung	303
+31252	Gumdale	303
+31265	Hemmant-Lytton	303
+31288	Inala	303
+31307	Karawatha	303
+31323	Kenmore Hills	303
+31326	Keperra	303
+31331	Kuraby	303
+31337	Lota	303
+31353	McDowall	303
+31364	Manly	303
+31367	Manly West	303
+31372	Mansfield	303
+31383	Mitchelton	303
+31386	Moggill	303
+31435	Northgate	303
+31438	Nudgee	303
+31443	Nudgee Beach	303
+31456	Pallara-Heathwood-Larapinta	303
+31463	Parkinson-Drewvale	303
+31465	Pinjarra Hills	303
+31467	Pinkenba-Eagle Farm	303
+31473	Pullenvale	303
+31476	Ransome	303
+31484	Richlands	303
+31495	Rochedale	303
+31503	Runcorn	303
+31514	Sandgate	303
+31541	Stretton	303
+31552	Sunnybank Hills	303
+31556	Taigum-Fitzgibbon	303
+31566	The Gap (incl. Enoggera SF)	303
+31571	Tingalpa	303
+31577	Underwood - Pt A	303
+31582	Upper Brookfield	303
+31585	Upper Kedron	303
+31593	Virginia	303
+31596	Wacol	303
+31601	Wakerley	303
+31615	Willawong	303
+31626	Wishart	303
+31637	Wynnum	303
+31642	Wynnum West	303
+31653	Zillmere	303
+34601	Browns Plains	303
+34603	Carbrook-Cornubia	303
+34605	Daisy Hill-Priestdale	303
+34608	Greenbank - Pt B	303
+34612	Kingston	303
+34615	Loganholme	303
+34618	Loganlea	303
+34623	Marsden	303
+34631	Rochedale South	303
+34634	Shailer Park	303
+34637	Slacks Creek	303
+34642	Springwood	303
+34645	Tanah Merah	303
+34648	Underwood - Pt B	303
+34654	Waterford West	303
+34656	Woodridge	303
+34663	Logan (C)Bal	303
+35951	Albany Creek	303
+35954	Arana Hills	303
+35957	Bray Park	303
+35962	Everton Hills	303
+35965	Ferny Hills	303
+35968	Kallangur	303
+35973	Lawnton	303
+35974	Petrie	303
+35976	Strathpine	303
+35983	Pine Rivers (S)Bal	303
+36200	Redcliffe (C)	303
+36251	Alexandra Hills	303
+36254	Birkdale	303
+36257	Capalaba	303
+36262	Cleveland	303
+36264	Ormiston	303
+36265	Redland Bay	303
+36267	Sheldon-Mt Cotton	303
+36268	Thorneside	303
+36271	Thornlands	303
+36273	Victoria Point	303
+36276	Wellington Point	303
+36283	Redland (S)Bal	303
+31394	Moreton Island	303
+30051	Beenleigh	304
+30053	Bethania-Waterford	304
+30055	Eagleby	304
+30058	Edens Landing-Holmview	304
+30061	Mt Warren Park	304
+30063	Windaroo-Bannockburn	304
+30064	Albert (S)Bal in BSD	304
+30065	Broadbeach Waters	304
+30067	Burleigh Waters	304
+30072	Carrara-Merrimac	304
+30074	Currumbin Waters	304
+30077	Elanora	304
+30082	Helensvale	304
+30083	Hope Island	304
+30086	Kerrydale-Stephens	304
+30088	Mermaid Waters	304
+30091	Mudgeeraba	304
+30093	Nerang	304
+30094	Oxenford	304
+30096	Robina-Clear Island Waters	304
+30097	Worongary-Tallai	304
+30098	Albert (S)- Pt B Bal	304
+33452	Arundel	304
+33453	Ashmore	304
+33454	Benowa	304
+33457	Biggera Waters	304
+33458	Bilinga	304
+33462	Broadbeach	304
+33465	Bundall	304
+33468	Burleigh Heads	304
+33472	Coolangatta	304
+33473	Coombabah	304
+33474	Currumbin	304
+33478	Ernest-Molendinar	304
+33482	Hollywell	304
+33483	Labrador	304
+33485	Main Beach-Broadwater	304
+33486	Mermaid Beach	304
+33488	Miami	304
+33491	Palm Beach	304
+33492	Paradise Point	304
+33493	Parkwood	304
+33495	Runaway Bay	304
+33498	Southport	304
+33503	Surfers Paradise	304
+33506	Tugun	304
+30551	Greenbank - Pt A	305
+30554	Beaudesert (S)Bal in BSD	305
+30557	Beaudesert (S)- Pt B	305
+30800	Boonah (S)	305
+33050	Esk (S)	305
+33250	Gatton (S)	305
+33950	Ipswich (C)	305
+34450	Laidley (S)	305
+35202	Bellbird Park	305
+35203	Camira	305
+35204	Carole Park	305
+35207	Karalee	305
+35214	Moreton (S)Bal in BSD - Nth	305
+35217	Moreton (S)Bal in BSD - Sth	305
+35231	Moreton (S)- Pt B	305
+32001	Caboolture (S)- Pt A	306
+32031	Caboolture (S)- Pt B	306
+32131	Caloundra (C)- Pt A	306
+32134	Caloundra (C)- Pt B	306
+34250	Kilcoy (S)	306
+34901	Maroochy (S)- Pt A	306
+34904	Maroochy (S)- Pt B	306
+35751	Noosa (S)- Pt A	306
+35754	Noosa (S)- Pt B	306
+30700	Biggenden (S)	307
+31800	Bundaberg (C)	307
+32950	Eidsvold (S)	307
+33300	Gayndah (S)	307
+33551	Gooburrum (S)- Pt A	307
+33554	Gooburrum (S)- Pt B	307
+33650	Gympie (C)	307
+33750	Hervey Bay (C)	307
+34000	Isis (S)	307
+34300	Kilkivan (S)	307
+34350	Kingaroy (S)	307
+34400	Kolan (S)	307
+34950	Maryborough (C)	307
+35100	Miriam Vale (S)	307
+35150	Monto (S)	307
+35450	Mundubbera (S)	307
+35500	Murgon (S)	307
+35650	Nanango (S)	307
+35900	Perry (S)	307
+36850	Tiaro (S)	307
+37350	Widgee (S)	307
+37450	Wondai (S)	307
+37500	Woocoo (S)	307
+37551	Woongarra (S)- Pt A	307
+37554	Woongarra (S)- Pt B	307
+30100	Allora (S)	308
+32150	Cambooya (S)	308
+32350	Chinchilla (S)	308
+32400	Clifton (S)	308
+32550	Crow	308
+32650	Dalby (T)	308
+33400	Glengallan (S)	308
+33900	Inglewood (S)	308
+34200	Jondaryan (S)	308
+35000	Millmerran (S)	308
+35550	Murilla (S)	308
+36050	Pittsworth (S)	308
+36450	Rosalie (S)	308
+36500	Rosenthal (S)	308
+36600	Stanthorpe (S)	308
+36700	Tara (S)	308
+36750	Taroom (S)	308
+36900	Toowoomba (C)	308
+37100	Waggamba (S)	308
+37150	Wambo (S)	308
+37250	Warwick (C)	308
+30300	Balonne (S)	309
+30650	Bendemere (S)	309
+30850	Booringa (S)	309
+31750	Bulloo (S)	309
+31850	Bungil (S)	309
+35600	Murweh (S)	309
+35800	Paroo (S)	309
+36150	Quilpie (S)	309
+36400	Roma (T)	309
+37200	Warroo (S)	309
+30350	Banana (S)	310
+30500	Bauhinia (S)	310
+32101	Calliope (S)- Pt A	310
+32104	Calliope (S)- Pt B	310
+32850	Duaringa (S)	310
+33000	Emerald (S)	310
+33151	Fitzroy (S)- Pt A	310
+33154	Fitzroy (S)- Pt B	310
+33350	Gladstone (C)	310
+34100	Jericho (S)	310
+34550	Livingstone (S)	310
+35350	Mount Morgan (S)	310
+35850	Peak Downs (S)	310
+36350	Rockhampton (C)	310
+30150	Aramac (S)	311
+30400	Barcaldine (S)	311
+30450	Barcoo (S)	311
+30750	Blackall (S)	311
+30900	Boulia (S)	311
+32750	Diamantina (S)	311
+33850	Ilfracombe (S)	311
+34050	Isisford (S)	311
+34700	Longreach (S)	311
+36650	Tambo (S)	311
+37400	Winton (S)	311
+30600	Belyando (S)	312
+31700	Broadsound (S)	312
+34750	Mackay (C)	312
+35050	Mirani (S)	312
+35700	Nebo (S)	312
+36001	Pioneer (S)- Pt A	312
+36004	Pioneer (S)- Pt B	312
+36550	Sarina (S)	312
+37330	Whitsunday (S)	312
+30950	Bowen (S)	313
+31900	Burdekin (S)	313
+32300	Charters Towers (C)	313
+32700	Dalrymple (S)	313
+33800	Hinchinbrook (S)	313
+36801	Kelso	313
+36804	Kirwan	313
+36807	Thuringowa (C)- Pt A Bal	313
+36831	Thuringowa (C)- Pt B	313
+37001	Aitkenvale	313
+37003	City	313
+37007	Cranbrook	313
+37012	Currajong	313
+37014	Douglas	313
+37015	Garbutt	313
+37018	Gulliver	313
+37023	Heatley	313
+37026	Hermit Park	313
+37027	Hyde Park-Mysterton	313
+37031	Magnetic Island	313
+37033	Mt Louisa-Mt St John-Bohle	313
+37034	Mundingburra	313
+37038	Murray	313
+37041	North Ward-Castle Hill	313
+37044	Oonoonba-Idalia-Cluden	313
+37047	Pallarenda-Shelley Beach	313
+37051	Pimlico	313
+37054	Railway Estate	313
+37058	Rosslea	313
+37062	Rowes Bay-Belgian Gardens	313
+37065	South Townsville	313
+37068	Stuart-Roseneath	313
+37071	Vincent	313
+37074	West End	313
+37078	Wulguru	313
+30200	Atherton (S)	314
+30250	Aurukun (S)	314
+32050	Cairns (C)	314
+32200	Cardwell (S)	314
+32501	Cook (S)(excl. Weipa)	314
+32504	Cook (S)- Weipa only	314
+32600	Croydon (S)	314
+32800	Douglas (S)	314
+32900	Eacham (S)	314
+33100	Etheridge (S)	314
+33700	Herberton (S)	314
+34150	Johnstone (S)	314
+34850	Mareeba (S)	314
+35401	Mulgrave (S)- Pt A	314
+35404	Mulgrave (S)- Pt B	314
+36950	Torres (S)	314
+31950	Burke (S)	315
+32250	Carpentaria (S)	315
+32450	Cloncurry (S)	315
+33200	Flinders (S)	315
+34800	McKinlay (S)	315
+35300	Mount Isa (C)	315
+36300	Richmond (S)	315
+40070	Adelaide (C)	401
+43150	Kensington & Norwood (C)	401
+46510	Prospect (C)	401
+47070	St Peters (M)	401
+47980	Unley (C)	401
+48260	Walkerville (M)	401
+40560	Brighton (C)	402
+40700	Burnside (C)	402
+40910	Campbelltown (C)	402
+41821	Enfield (C)- Pt A	402
+41822	Enfield (C)- Pt B	402
+42240	Glenelg (C)	402
+42590	Henley & Grange (C)	402
+42660	Hindmarsh (M)	402
+44060	Marion (C)	402
+44340	Mitcham (C)	402
+45530	Payneham (C)	402
+46020	Port Adelaide (C)	402
+47770	Thebarton (M)	402
+48470	West Torrens (C)	402
+48680	Woodville (C)	402
+41610	East Torrens (DC)	403
+41680	Elizabeth (C)	403
+42030	Gawler (M)	403
+42450	Happy Valley (C)	403
+44900	Munno Para (C)	403
+45250	Noarlunga (C)	403
+47140	Salisbury (C)	403
+47350	Stirling (DC)	403
+47700	Tea Tree Gully (C)	403
+48610	Willunga (DC)	403
+49249	Unincorp. West Coast	404
+44970	Murat Bay (DC)	404
+49249	Unincorp. West Coast	404
+49179	Unincorp. Lincoln	404
+47490	Streaky Bay (DC)	404
+43570	Le Hunte (DC)	404
+43220	Kimba (DC)	404
+49179	Unincorp. Lincoln	404
+41750	Elliston (DC)	404
+41190	Cleve (DC)	404
+41960	Franklin Harbor (DC)	404
+47910	Tumby Bay (DC)	404
+43710	Lower Eyre Peninsula (DC)	404
+46300	Port Lincoln (C)	404
+49039	Unincorp. Riverland	405
+44480	Morgan (DC)	405
+48120	Waikerie (DC)	405
+45460	Paringa (DC)	405
+46650	Renmark (M)	405
+40210	Barmera (DC)	405
+43780	Loxton (DC)	405
+45460	Paringa (DC)	405
+40420	Berri (DC)	405
+47840	Truro (DC)	405
+49039	Unincorp. Riverland	405
+46720	Ridley (DC)	405
+43080	Karoonda-East Murray (DC)	405
+40630	Browns Well (DC)	405
+43990	Mannum (DC)	405
+45040	Murray Bridge (DC)	405
+45880	Pinnaroo (DC)	405
+43430	Lameroo (DC)	405
+44130	Meningie (DC)	405
+45600	Peake (DC)	405
+41400	Coonalpyn Downs (DC)	405
+40980	Carrieton (DC)	406
+41330	Coober Pedy (DC)	406
+41480	Crystal Brook-Redhill (DC)	406
+42380	Hallett (DC)	406
+42520	Hawker (DC)	406
+42740	Jamestown (DC)	406
+42940	Kanyaka-Quorn (DC)	406
+44830	Mount Remarkable (DC)	406
+45390	Orroroo (DC)	406
+45740	Peterborough (M)	406
+45810	Peterborough (DC)	406
+45950	Pirie (DC)	406
+46090	Port Augusta (C)	406
+46440	Port Pirie (C)	406
+46950	Rocky River (DC)	406
+46970	Roxby Downs (M)	406
+48540	Whyalla (C)	406
+49389	Unincorp. Whyalla	406
+49459	Unincorp. Pirie	406
+49529	Unincorp. Flinders Ranges	406
+49589	Unincorp. Far North	406
+43010	Kapunda (DC)	407
+43920	Mallala (DC)	407
+43640	Light (DC)	407
+40140	Angaston (DC)	407
+47560	Tanunda (DC)	407
+40280	Barossa (DC)	407
+44760	Mount Pleasant (DC)	407
+42310	Gumeracha (DC)	407
+45320	Onkaparinga (DC)	407
+44550	Mount Barker (DC)	407
+47420	Strathalbyn (DC)	407
+48750	Yankalilla (DC)	407
+46230	Port Elliot & Goolwa (DC)	407
+48050	Victor Harbor (DC)	407
+43290	Kingscote (DC)	407
+41540	Dudley (DC)	407
+47630	Tatiara (DC)	408
+43360	Lacepede (DC)	408
+45180	Naracoorte (DC)	408
+43850	Lucindale (DC)	408
+45110	Naracoorte (M)	408
+46860	Robe (DC)	408
+45670	Penola (DC)	408
+40350	Beachport (DC)	408
+44200	Millicent (DC)	408
+44690	Mount Gambier (DC)	408
+46370	Port MacDonnell (DC)	408
+44620	Mount Gambier (C)	408
+40510	Blyth-Snowtown (DC)	409
+40770	Burra Burra (DC)	409
+40840	Bute (DC)	409
+41040	Central Yorke Peninsula (DC)	409
+41120	Clare (DC)	409
+41890	Eudunda (DC)	409
+44270	Minlaton (DC)	409
+45280	Northern Yorke Peninsula (DC)	409
+46160	Port Broughton (DC)	409
+46790	Riverton (DC)	409
+46930	Robertstown (DC)	409
+47000	Saddleworth & Auburn (DC)	409
+47280	Spalding (DC)	409
+48190	Wakefield Plains (DC)	409
+48330	Wallaroo (M)	409
+48400	Warooka (DC)	409
+48820	Yorketown (DC)	409
+51750	Claremont (T)	501
+52170	Cottesloe (T)	501
+53150	East Fremantle (T)	501
+53431	Fremantle (C)- Inner	501
+53432	Fremantle (C)- Remainder	501
+55740	Mosman Park (T)	501
+56580	Nedlands (C)	501
+56930	Peppermint Grove (S)	501
+57071	Perth (C)- Inner	501
+57072	Perth (C)- North	501
+57073	Perth (C)- Outer	501
+57074	Perth (C)- South	501
+57075	Perth (C)- Wembley-Coastal	501
+57840	South Perth (C)	501
+57980	Subiaco (C)	501
+50350	Bassendean (T)	502
+50420	Bayswater (C)	502
+50490	Belmont (C)	502
+51330	Canning (C)	502
+55320	Melville (C)	502
+57911	Stirling (C)- Central	502
+57912	Stirling (C)- West	502
+57913	Stirling (C)- South-Eastern	502
+50210	Armadale (C)	503
+51820	Cockburn (C)	503
+53780	Gosnells (C)	503
+54200	Kalamunda (S)	503
+54830	Kwinana (T)	503
+56090	Mundaring (S)	503
+57490	Rockingham (C)	503
+57700	Serpentine-Jarrahdale (S)	503
+58050	Swan (S)	503
+58750	Wanneroo (C)	503
+50280	Augusta-Margaret River (S)	504
+50630	Boddington (S)	504
+50770	Boyup Brook (S)	504
+50840	Bridgetown-Greenbushes (S)	504
+51190	Bunbury (C)	504
+51260	Busselton (S)	504
+51400	Capel (S)	504
+51890	Collie (S)	504
+52660	Dardanup (S)	504
+52870	Donnybrook-Balingup (S)	504
+53990	Harvey (S)	504
+55110	Mandurah (C)	504
+55180	Manjimup (S)	504
+56230	Murray (S)	504
+56300	Nannup (S)	504
+58820	Waroona (S)	504
+50070	Albany (T)	505
+50140	Albany (S)	505
+51050	Broomehill (S)	505
+52240	Cranbrook (S)	505
+52730	Denmark (S)	505
+53640	Gnowangerup (S)	505
+54130	Jerramungup (S)	505
+54340	Katanning (S)	505
+54480	Kent (S)	505
+54550	Kojonup (S)	505
+57210	Plantagenet (S)	505
+58120	Tambellup (S)	505
+59380	Woodanilling (S)	505
+50910	Brookton (S)	506
+52100	Corrigin (S)	506
+52310	Cuballing (S)	506
+53010	Dumbleyung (S)	506
+54620	Kondinin (S)	506
+54760	Kulin (S)	506
+54900	Lake Grace (S)	506
+56440	Narrogin (T)	506
+56510	Narrogin (S)	506
+57140	Pingelly (S)	506
+58610	Wagin (S)	506
+58680	Wandering (S)	506
+58890	West Arthur (S)	506
+59100	Wickepin (S)	506
+59170	Williams (S)	506
+50560	Beverley (S)	507
+51120	Bruce Rock (S)	507
+51680	Chittering (S)	507
+52450	Cunderdin (S)	507
+52520	Dalwallinu (S)	507
+52590	Dandaragan (S)	507
+52940	Dowerin (S)	507
+53570	Gingin (S)	507
+53710	Goomalling (S)	507
+54410	Kellerberrin (S)	507
+54690	Koorda (S)	507
+55460	Merredin (S)	507
+55600	Moora (S)	507
+55880	Mount Marshall (S)	507
+55950	Mukinbudin (S)	507
+56370	Narembeen (S)	507
+56650	Northam (T)	507
+56720	Northam (S)	507
+56860	Nungarin (S)	507
+57350	Quairading (S)	507
+58190	Tammin (S)	507
+58330	Toodyay (S)	507
+58400	Trayning (S)	507
+58540	Victoria Plains (S)	507
+59030	Westonia (S)	507
+59310	Wongan-Ballidu (S)	507
+59450	Wyalkatchem (S)	507
+59660	Yilgarn (S)	507
+59730	York (S)	507
+51960	Coolgardie (S)	508
+53080	Dundas (S)	508
+53290	Esperance (S)	508
+54280	Kalgoorlie/Boulder (C)	508
+54970	Laverton (S)	508
+55040	Leonora (S)	508
+55390	Menzies (S)	508
+57420	Ravensthorpe (S)	508
+51470	Carnamah (S)	509
+51540	Carnarvon (S)	509
+51610	Chapman Valley (S)	509
+52030	Coorow (S)	509
+52380	Cue (S)	509
+53360	Exmouth (S)	509
+53500	Geraldton (C)	509
+53850	Greenough (S)	509
+54060	Irwin (S)	509
+55250	Meekatharra (S)	509
+55530	Mingenew (S)	509
+55670	Morawa (S)	509
+55810	Mount Magnet (S)	509
+56020	Mullewa (S)	509
+56160	Murchison (S)	509
+56790	Northampton (S)	509
+57000	Perenjori (S)	509
+57630	Sandstone (S)	509
+57770	Shark Bay (S)	509
+58260	Three Springs (S)	509
+58470	Upper Gascoyne (S)	509
+59240	Wiluna (S)	509
+59590	Yalgoo (S)	509
+50250	Ashburton (S)	510
+53220	East Pilbara (S)	510
+57280	Port Hedland (T)	510
+57560	Roebourne (S)	510
+50980	Broome (S)	511
+52800	Derby-West Kimberley (S)	511
+53920	Halls Creek (S)	511
+59520	Wyndham-East Kimberley (S)	511
+60301	Brighton (M)- Pt A	601
+60302	Brighton (M)- Pt B	601
+60800	Clarence (C)	601
+61600	Glamorgan (M)	601
+61700	Glenorchy (C)	601
+61900	Green Ponds (M)	601
+62101	Hobart (C)- Inner	601
+62102	Hobart (C)- Remainder	601
+62501	Kingborough (M)- Pt A	601
+63001	New Norfolk (M)- Pt A	601
+63100	Oatlands (M)	601
+63600	Richmond (M)	601
+64101	Sorell (M)- Pt A	601
+64102	Sorell (M)- Pt B	601
+64200	Spring Bay (M)	601
+64400	Tasman (M)	601
+60200	Bothwell (M)	602
+60400	Bruny (M)	602
+61100	Esperance (M)	602
+62000	Hamilton (M)	602
+62200	Huon (M)	602
+62502	Kingborough (M)- Pt B	602
+63002	New Norfolk (M)- Pt B	602
+63300	Port Cygnet (M)	602
+60101	Beaconsfield (M)- Pt A	603
+60102	Beaconsfield (M)- Pt B	603
+60600	Campbell Town (M)	603
+60900	Deloraine (M)	603
+61201	Evandale (M)- Pt A	603
+61202	Evandale (M)- Pt B	603
+61300	Fingal (M)	603
+61400	Flinders (M)	603
+61501	George Town (M)- Pt A	603
+61502	George Town (M)- Pt B	603
+62701	Launceston (C)- Inner	603
+62703	Launceston (C)- Pt B	603
+62704	Launceston (C)- Pt C	603
+62901	Longford (M)- Pt A	603
+62902	Longford (M)- Pt B	603
+63400	Portland (M)	603
+63700	Ringarooma (M)	603
+63800	Ross (M)	603
+64000	Scottsdale (M)	603
+64701	Westbury (M)- Pt A	603
+64702	Westbury (M)- Pt B	603
+60501	Burnie (C)- Pt A	604
+60502	Burnie (C)- Pt B	604
+60700	Circular Head (M)	604
+61000	Devonport (C)	604
+62300	Kentish (M)	604
+62400	King Island (M)	604
+62601	Latrobe (M)- Pt A	604
+62602	Latrobe (M)- Pt B	604
+62950	Lyell (M)	604
+63201	Penguin (M)- Pt A	604
+63202	Penguin (M)- Pt B	604
+64300	Strahan (M)	604
+64501	Ulverstone (M)- Pt A	604
+64502	Ulverstone (M)- Pt B	604
+64600	Waratah (M)	604
+64801	Wynyard (M)- Pt A	604
+64802	Wynyard (M)- Pt B	604
+64900	Zeehan (M)	604
+71004	Alawa	701
+71008	Anula	701
+71014	Brinkin	701
+71018	City - Inner	701
+71024	Coconut Grove	701
+71028	Fannie Bay	701
+71034	Jingili	701
+71038	Karama	701
+71044	Larrakeyah	701
+71048	Leanyer	701
+71052	Lee Point-Leanyer Swamp	701
+71054	Ludmilla	701
+71058	Malak	701
+71064	Marrara	701
+71068	Millner	701
+71074	Moil	701
+71078	Nakara	701
+71084	Narrows	701
+71088	Nightcliff	701
+71094	Parap	701
+71098	Rapid Creek	701
+71104	Stuart Park	701
+71108	The Gardens	701
+71114	Tiwi	701
+71118	Wagaman	701
+71124	Wanguri	701
+71128	Winnellie	701
+71134	Wulagi	701
+71138	City - Remainder	701
+71169	East Arm	701
+72804	Driver	701
+72808	Gray	701
+72814	Moulden	701
+72818	Woodroffe	701
+72824	Palmerston (T)Bal	701
+72304	Litchfield (S)- Pt A	701
+70200	Alice Springs (T)	702
+70609	Bathurst-Melville	702
+70700	Coomalie (CGC)	702
+70759	Cox-Finniss	702
+70809	Daly	702
+71209	East Arnhem - Bal	702
+71409	Elsey - Bal	702
+71609	Groote Eylandt	702
+71809	Gulf	702
+72000	Jabiru (T)	702
+72200	Katherine (T)	702
+72308	Litchfield (S)- Pt B	702
+72409	Nhulunbuy	702
+73009	Petermann	702
+73209	Sandover - Bal	702
+73309	South Alligator	702
+73409	Tableland	702
+73609	Tanami	702
+73800	Tennant Creek (T)	702
+74009	Tennant Creek - Bal	702
+74409	Victoria	702
+74809	West Arnhem	702
+80089	Acton	801
+80189	Ainslie	801
+80279	Aranda	801
+80369	Barton	801
+80459	Belconnen Town Centre	801
+80549	Belconnen - SSD Bal	801
+80609	Bonython	801
+80639	Braddon	801
+80729	Bruce	801
+80819	Calwell	801
+80909	Campbell	801
+81089	Chapman	801
+81179	Charnwood	801
+81269	Chifley	801
+81359	Chisholm	801
+81449	City	801
+81629	Cook	801
+81719	Curtin	801
+81809	Deakin	801
+81889	Dickson	801
+81989	Downer	801
+82079	Duffy	801
+82169	Duntroon	801
+82259	Evatt	801
+82349	Fadden	801
+82439	Farrer	801
+82529	Fisher	801
+82619	Florey	801
+82709	Flynn	801
+82789	Forrest	801
+82889	Fraser	801
+82979	Fyshwick	801
+83069	Garran	801
+83159	Gilmore	801
+83249	Giralang	801
+83289	Gordon	801
+83339	Gowrie	801
+83379	Greenway	801
+83429	Griffith	801
+83519	Gungahlin	801
+83609	Hackett	801
+83689	Hall	801
+83789	Harman	801
+83879	Hawker	801
+83969	Higgins	801
+84059	Holder	801
+84149	Holt	801
+84239	Hughes	801
+84329	Hume	801
+84419	Isaacs	801
+84509	Isabella Plains	801
+84589	Jerrabomberra	801
+84779	Kaleen	801
+84869	Kambah	801
+84959	Kingston	801
+85049	Kowen	801
+85139	Latham	801
+85229	Lyneham	801
+85319	Lyons	801
+85409	McKellar	801
+85489	Macarthur	801
+85589	Macgregor	801
+85679	Macquarie	801
+85769	Majura	801
+85859	Mawson	801
+85949	Melba	801
+86039	Mitchell	801
+86129	Monash	801
+86219	Narrabundah	801
+86309	Oaks Estate	801
+86389	O	801
+86489	O	801
+86579	Oxley	801
+86669	Page	801
+86759	Parkes	801
+86849	Pearce	801
+86939	Phillip	801
+87029	Pialligo	801
+87119	Red Hill	801
+87209	Reid	801
+87289	Richardson	801
+87389	Rivett	801
+87479	Russell	801
+87569	Scullin	801
+87659	Spence	801
+87749	Stirling	801
+87839	Stromlo	801
+87929	Symonston	801
+88019	Theodore	801
+88109	Torrens	801
+88189	Tuggeranong - SSD Bal	801
+88289	Turner	801
+88379	Wanniassa	801
+88469	Waramanga	801
+88559	Watson	801
+88649	Weetangera	801
+88739	Weston	801
+88829	Weston Creek - SSD Bal	801
+88919	Yarralumla	801
+89009	Remainder of ACT	801
+84689	Jervis Bay Territory	801
+11300	Burwood (M)	102
+18859	Lord Howe Island	107
+13600	Goondiwindi	308
+35250	Mornington (S)	315
+38809	Unicorporated Islands	315
+37081	Townsville (C)Bal	313
+48899	Unincorporated Western	402
+48969	Unincorporated Yorke	409

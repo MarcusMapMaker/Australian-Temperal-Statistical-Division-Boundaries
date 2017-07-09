@@ -1,0 +1,70 @@
+TSD_Code	TSD_Name
+101	Inner Sydney
+102	Middle Sydney
+103	Outer Sydney
+104	Hunter
+105	Illawarra
+106	Richmond-Tweed
+107	Mid-North Coast
+108	Northern
+109	North Western
+110	Central West
+111	South Eastern
+112	Murrumbidgee
+113	Murray
+114	Far West
+201	Inner Melbourne
+202	Outer Melbourne North
+203	Outer Melbourne South
+204	Barwon
+205	Western District
+206	Central Highlands
+207	Wimmera
+208	Mallee
+209	Loddon
+210	Goulburn
+211	Ovens-Murray
+212	East Gippsland
+213	Gippsland
+301	Inner Brisbane
+302	Middle Brisbane
+303	Outer Brisbane
+304	Gold Coast
+305	Ipswich
+306	Caboolture
+307	Wide Bay-Burnett
+308	Darling Downs
+309	South West
+310	Fitzroy
+311	Central West
+312	Mackay
+313	Northern
+314	Far North
+315	North West
+401	Inner Adelaide
+402	Middle Adelaide
+403	Outer Adelaide
+404	Eyre
+405	Murray Lands
+406	Northern
+407	Outer Adelaide
+408	South east
+409	York & Lower North
+501	Inner Perth
+502	Middle Perth
+503	Outer Perth
+504	South West
+505	Lower Greater Southern
+506	Upper Great Southern
+507	Midlands
+508	South Eastern
+509	Central
+510	Pilbara
+511	Kimberley
+601	Greater Hobart
+602	Southern
+603	Northern
+604	Mersey-Lyell
+701	Darwin
+702	Northern Territory - Balance
+801	ACT
